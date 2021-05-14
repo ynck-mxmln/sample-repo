@@ -5,3 +5,6 @@ print("hello world")
 print(sys.version)
 
 print(sys.executable)
+
+
+print("hi")
